@@ -95,7 +95,7 @@ main() {
 
   local current_version
   #current_version=$(fetch_url "http://setup.roblox.com/mac/version")
-  current_version="version-8defd975a9cc469c"
+  current_version="version-5dfe01c5a7da4004"
 
   print_color "$GREEN" "$CHECK_MARK Got latest version of Roblox! $current_version\n"
 
